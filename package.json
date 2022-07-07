@@ -1,0 +1,17 @@
+{
+  "name": "wpengine-trial-project",
+  "version": "0.1.0",
+  "description": "Trial project for WPEngine.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wpe_merge": "./src/index.js"
+  },
+  "author": "Justin Kopepasah",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^6.1.5"
+  }
+}
